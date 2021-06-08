@@ -58,7 +58,7 @@ neovim-qt.override {
 
 ## Managing plugins with Vim packages {#managing-plugins-with-vim-packages}
 
-To store you plugins in Vim packages (the native Vim plugin manager, see `:help packages`) the following example can be used:
+To store your plugins in Vim packages (the native Vim plugin manager, see `:help packages`) the following example can be used:
 
 ```nix
 vim_configurable.customize {
